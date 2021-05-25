@@ -5,13 +5,8 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently working on ![GradGoggles](https://www.gradgoggles.com/), which is a Virtual Yearbook & Scrapbook platform.
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: khalatevarun@gmail.com
 
-- My github stats
-
-
-[![](https://github-readme-stats.vercel.app/api?username=khalatevarun)](https://github.com/khalatevarun/github-readme-stats)
 
