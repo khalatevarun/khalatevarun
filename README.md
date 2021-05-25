@@ -10,6 +10,8 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-- My github stata
+- My github stats
+
+
 [![](https://github-readme-stats.vercel.app/api?username=khalatevarun)](https://github.com/khalatevarun/github-readme-stats)
 
