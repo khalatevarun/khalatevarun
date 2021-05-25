@@ -6,7 +6,7 @@
 
 
 - 🔭 I am currently working on [GradGoggles](https://www.gradgoggles.com/), which is a Virtual Yearbook & Scrapbook platform.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Frontend development
 - 📫 Reach me at **khalatevarun@gmail.com**
 
 
