@@ -4,7 +4,7 @@
 
 
 
-
+- 📍 I am software developer with working knowledge of Native Android Framework framework for Android App development and ReactJS for Web Development. 
 - 🔭 I am currently working on [GradGoggles](https://www.gradgoggles.com/), which is a Virtual Yearbook & Scrapbook platform.
 - 🌱 I’m currently learning Fullstack web development
 - 📫 Reach me at **khalatevarun@gmail.com**
