@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [GradGoggles](https://www.gradgoggles.com/)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://varunkhalate.netlify.app/">Varun Khalate</a></h1>
 
 
 
