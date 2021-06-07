@@ -4,7 +4,7 @@
 
 
 
-- 📍  I am Frontend developer with working knowledge of Javascript, Typescript and ReactJS ecosystem. 
+- 📍  I am Frontend developer with proficiency in Javascript, Typescript and ReactJS ecosystem. 
 - 🔭 I am currently working on [GradGoggles](https://www.gradgoggles.com/), which is a Virtual Yearbook & Scrapbook platform.
 - 🌱 I’m currently learning MERN stack.
 - 📫 Reach me at **khalatevarun@gmail.com**
