@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://varunkhalate.netlify.app/">Varun Khalate</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://varunkhalate.me/">Varun Khalate</a></h1>
 
 
 
