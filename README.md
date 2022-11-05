@@ -22,4 +22,4 @@
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalatevarun&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Recently participated in hactoberfest 2022</h3>
-![unnamed](https://user-images.githubusercontent.com/68511458/200123711-f3bc6583-dc13-4693-b37f-3872cad3d390.png)
+<img src="https://user-images.githubusercontent.com/68511458/200123711-f3bc6583-dc13-4693-b37f-3872cad3d390.png" alt="hactoberfest22" width="100" height="100"/>
