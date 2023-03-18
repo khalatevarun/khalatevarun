@@ -5,7 +5,7 @@
 
 
 - 📍  I am Frontend developer with proficiency in Javascript, ReactJS ecosystem. 
-- 🔭 I am currently working on [GradGoggles](https://www.gradgoggles.com/), which is a Virtual Yearbook & Scrapbook platform.
+- 🔭 I am currently exploring backend technologies.
 - 📫 Reach me at **khalatevarun@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
