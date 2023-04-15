@@ -5,7 +5,7 @@
 
 
 - 📍  I am Frontend developer with proficiency in Javascript, ReactJS ecosystem. 
-- 🔭 I am currently exploring backend technologies.
+- 🔭 I am currently working as a SDE at Groww.
 - 📫 Reach me at **khalatevarun@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
