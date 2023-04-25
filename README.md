@@ -17,6 +17,3 @@
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-   
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalatevarun&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
