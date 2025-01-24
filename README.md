@@ -5,7 +5,7 @@
 
 
 - 📍  I am Fullstack developer developer with proficiency in frontend technologies like Javascript and the ReactJS ecosystem. 
-- 🔭 I am a grad student studying Master's in Computer Science at University of Illinois at Chicago
+- 📚 I am pursuing Master's in Computer Science at University of Illinois at Chicago
 - 📫 Reach me at **khalatevarun@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
