@@ -50,9 +50,3 @@ My Contributions:
 **Mobile:** Android (Java)   
 
 ---
-
-## 🔗 Connect With Me  
-- 🌐 Website: https://www.varunhnk.com
-- 🐦 X: @varunkhalate  
-- 💼 LinkedIn: /in/varun-khalate  
-- 📫 Email: **khalatevarun@gmail.com**
