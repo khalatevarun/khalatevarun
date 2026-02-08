@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://varunkhalate.vercel.app/">Varun Khalate</a></h1>
-<h3 align="center"> Product Engineer • Builder • MSCS @ UIC</h3>
+<h3 align="center"> Product Engineer • Builder</h3>
 
 ---
 
