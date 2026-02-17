@@ -4,11 +4,10 @@
 ---
 
 ## 👨‍💻 About Me  
-- 📍 Full-stack developer with strong experience in **React**, **TypeScript**, **JavaScript**, **Python**, and **modern backend ecosystems** (Node, Flask, FastAPI).  
-- 🎓 Pursuing **MS in Computer Science** at the **University of Illinois Chicago (UIC)**.  
-- 💼 Previously **Software Engineer Intern at PayPal**
-- 🚀 Passionate about **performance engineering**, **product building**, **DX**, and **shipping user-facing experiences at scale**.  
-- 📫 Reach me at **khalatevarun@gmail.com**
+- Full-stack developer with strong experience in **React**, **TypeScript**, **JavaScript**, **Python**, and **modern backend ecosystems** (Node, Flask, FastAPI).  
+- Pursuing **MS in Computer Science** at the **University of Illinois Chicago (UIC)**.  
+- Previously **Software Engineer Intern at PayPal**
+- Passionate about **performance engineering**, **product building**, **DX**, and **shipping user-facing experiences at scale**.  
 
 ---
 
